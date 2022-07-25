@@ -9,7 +9,7 @@ void show(int a[], int n){
     for (int i = 0 ; i < n ;i ++){
         cout << a[i] << " ";
     }
-    cout << endl;
+    cout << endl; 
 }
 
 void swap(int a[], int i, int j){
